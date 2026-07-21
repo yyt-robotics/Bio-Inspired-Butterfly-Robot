@@ -3,7 +3,7 @@
 A lightweight bio-inspired flapping-wing robot developed for the National College Students Mechanical Innovation Design Competition in China.
 
 <p align="center">
-  <img src="images/final_prototype.png" width="500">
+  <img src="images/final_prototyp.png" width="500">
 </p>
 
 ---
